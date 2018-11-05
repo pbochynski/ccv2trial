@@ -84,7 +84,8 @@
         "eventtrackingwsaddon",
         "oauth2",
         "modeltacceleratorservices",
-        "azurecloudhotfolder"
+        "azurecloudhotfolder",
+        "cmsoccaddon"
     ],
     "properties": [
         {
@@ -251,6 +252,11 @@
             "addon": "eventtrackingwsaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "cmsoccaddon",
+            "storefront": "ycommercewebservices",
+            "template": "ycommercewebservices"
         }
     ],
     "aspects": [
