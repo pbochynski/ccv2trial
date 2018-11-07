@@ -115,6 +115,30 @@
         {
             "key":"oauth2.kyma.public.address",
             "value":"electronics.c5vzgp-kymahoney1-p1-public.model-t.cc.commerce.ondemand.com"
+        },        
+        {
+            "key":"oauth2.spa.algorithm",
+            "value":"RS256"
+        },
+        {
+            "key":"oauth2.spa.responseTypes",
+            "value":"code,code id_token,id_token,token id_token"
+        },
+        {
+            "key":"oauth2.spa.kid",
+            "value":"spa"
+        },
+        {
+            "key":"oauth2.spa.keystore.location",
+            "value":"/security/keystore.jks"
+        },
+        {
+            "key":"oauth2.spa.keystore.password",
+            "value":"nimda123"
+        },
+        {
+            "key":"oauth2.spa.public.address",
+            "value":"electronics.c5vzgp-kymahoney1-p1-public.model-t.cc.commerce.ondemand.com"
         },
         {
             "key": "googleApiKey",
