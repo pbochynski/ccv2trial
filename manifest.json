@@ -130,7 +130,7 @@
         },
         {
             "key":"oauth2.spa.keystore.location",
-            "value":"/security/keystore.jks"
+            "value":"/security/spa.jks"
         },
         {
             "key":"oauth2.spa.keystore.password",
