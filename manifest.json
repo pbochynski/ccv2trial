@@ -89,6 +89,18 @@
     ],
     "properties": [
         {
+            "key": "csrf.allowed.url.patterns",
+            "value": "/[^/]+(/[^?]*)+(sop/response)$,/[^/]+(/[^?]*)+(merchant_callback)$,/[^/]+(/[^?]*)+(hop/response)$,/[^/]+(/[^?]*)+(language)$,/[^/]+(/[^?]*)+(currency)$,/(events)$"
+        },
+        {
+            "key": "website.electronics.http",
+            "value": "http://accstorefront.cqz1m-softwarea1-s1-public.model-t.cc.commerce.ondemand.com/"
+        },
+        {
+            "key": "website.electronics.https",
+            "value": "https://accstorefront.cqz1m-softwarea1-s1-public.model-t.cc.commerce.ondemand.com/"
+        },
+        {
             "key": "lang.packs",
             "value": "de,en,es,es_CO,fr,it,ja,ko,pt,ru,zh,zh_TW,hi,id,cs,cy"
         },
