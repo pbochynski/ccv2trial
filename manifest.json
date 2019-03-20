@@ -84,7 +84,8 @@
         "odata2webservices",
         "outboundservices",
         "integrationservices",
-        "integrationbackoffice"
+        "integrationbackoffice",
+        "adminapi"
     ],
     "properties": [
         {
