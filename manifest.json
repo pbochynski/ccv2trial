@@ -125,7 +125,7 @@
         },
         {
             "key":"oauth2.kyma.public.address",
-            "value":"electronics.c5vzgp-kymahoney1-p1-public.model-t.cc.commerce.ondemand.com"
+            "value":"accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com"
         },        
         {
             "key":"oauth2.spa.algorithm",
@@ -149,7 +149,7 @@
         },
         {
             "key":"oauth2.spa.public.address",
-            "value":"electronics.c5vzgp-kymahoney1-p1-public.model-t.cc.commerce.ondemand.com"
+            "value":"accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com"
         },
         {
             "key": "googleApiKey",
