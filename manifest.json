@@ -94,11 +94,11 @@
         },
         {
             "key": "website.electronics.http",
-            "value": "http://accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com/"
+            "value": "http://accstorefront.crz8nbwca-internalc6-d8-public.model-t.cc.commerce.ondemand.com/"
         },
         {
             "key": "website.electronics.https",
-            "value": "https://accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com/"
+            "value": "https://accstorefront.crz8nbwca-internalc6-d8-public.model-t.cc.commerce.ondemand.com/"
         },
         {
             "key": "lang.packs",
@@ -126,7 +126,7 @@
         },
         {
             "key":"oauth2.kyma.public.address",
-            "value":"accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com"
+            "value":"accstorefront.crz8nbwca-internalc6-d8-public.model-t.cc.commerce.ondemand.com"
         },        
         {
             "key":"oauth2.spa.algorithm",
@@ -150,7 +150,7 @@
         },
         {
             "key":"oauth2.spa.public.address",
-            "value":"accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com"
+            "value":"accstorefront.crz8nbwca-internalc6-d8-public.model-t.cc.commerce.ondemand.com"
         },
         {
             "key": "googleApiKey",
